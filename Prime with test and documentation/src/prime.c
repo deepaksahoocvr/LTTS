@@ -1,3 +1,5 @@
+#include "prime.h"
+
 char *isprime(int n)
 {
     if(n==1 || n==0)
